@@ -1,0 +1,7 @@
+12. Given an array of n points (x,y) in the 2D cartesian plane, write a shortfunction to find the smallest possible circle that encloses them all.Specify that circle as (x,y,r), i.e. center co-ordinates and radius.[You can treat a point that touches the circle as being "within" it. You shouldalso explain the algorithm you use; a perfect solution to this problem is non-trivial.Since this is a test of programming, rather than mathematics, it is more importantthat the code  you write corresponds to the algorithm you document, than that thealgorithm itself is optimal.]-----
+this version uses free library code for the algorithm.
+I only post this version to show that this is a known complex problem that has been solved 
+and it is possible to utilise a known solution off the shelf.
+
+Smallest enclosing circle - Library (JavaScript)
+https://www.nayuki.io/page/smallest-enclosing-circle
